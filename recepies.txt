@@ -1,5 +1,7 @@
 Kheer
 Pasta
 rasam
+Beans
+pizza
 
 thankyou
